@@ -8,14 +8,9 @@ import android.os.Bundle;
 import id.sch.smktelkom_mlg.tugas01.xirpl2019.advancewidget3.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-    String nama;
-    ActivityMainBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-       binding = DataBindingUtil.setContentView(this, R.layout.activity_main);
-        binding.setNama(nama);
-    }
 }
