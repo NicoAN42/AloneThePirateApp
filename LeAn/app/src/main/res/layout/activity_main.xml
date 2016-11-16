@@ -58,6 +58,12 @@
             android:text="@string/btn_custom_icon_tabs"
             android:textSize="15dp" />
 
+        <Button
+            android:text="Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button" />
+
     </LinearLayout>
 
 
