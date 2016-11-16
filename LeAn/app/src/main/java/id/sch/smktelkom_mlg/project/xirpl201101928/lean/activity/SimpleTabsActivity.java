@@ -39,7 +39,7 @@ public class SimpleTabsActivity extends AppCompatActivity {
         setupViewPager(viewPager);
 
         tabLayout = (TableLayout) findViewById(R.id.tabs);
-        tabLayout.setupWithViewPager(viewPager);
+        setupViewPager(viewPager);
     }
 
     private void setupViewPager(ViewPager viewPager) {
