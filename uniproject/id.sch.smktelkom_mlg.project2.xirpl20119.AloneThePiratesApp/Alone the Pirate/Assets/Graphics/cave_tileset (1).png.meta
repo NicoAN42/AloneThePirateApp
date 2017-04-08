@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: a256c73214a139b46812075c9066d9c3
+timeCreated: 1491324166
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cave_tileset (1)_0
+    21300002: cave_tileset (1)_1
+    21300004: cave_tileset (1)_2
+    21300006: cave_tileset (1)_3
+    21300008: cave_tileset (1)_4
+    21300010: cave_tileset (1)_5
+    21300012: cave_tileset (1)_6
+    21300014: cave_tileset (1)_7
+    21300016: cave_tileset (1)_8
+    21300018: cave_tileset (1)_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cave_tileset (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 39}
+        - {x: -32, y: -39}
+        - {x: 32, y: -39}
+        - {x: 32, y: 35}
+        - {x: 20, y: 39}
+    - name: cave_tileset (1)_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 254
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 31}
+        - {x: -109, y: 25}
+        - {x: -127, y: -2}
+        - {x: -127, y: -31}
+        - {x: 127, y: -31}
+        - {x: 127, y: -3}
+        - {x: 101, y: 31}
+    - name: cave_tileset (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 51.5}
+        - {x: -80, y: -51.5}
+        - {x: 80, y: -51.5}
+        - {x: 80, y: 17.5}
+        - {x: 32, y: 51.5}
+    - name: cave_tileset (1)_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tileset (1)_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tileset (1)_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 67
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tileset (1)_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tileset (1)_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 23.5}
+        - {x: -16, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 16, y: 21.5}
+        - {x: 14, y: 23.5}
+    - name: cave_tileset (1)_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: cave_tileset (1)_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
