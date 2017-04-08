@@ -1,0 +1,34 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M          (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+    Driver:   9.18.13.4709
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\uniproject\Alone the Pirate\Alone The Pirate_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.879360 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 36.190968 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 7131.
+Total: 1.633506 ms (FindLiveObjects: 0.435022 ms CreateObjectMapping: 0.165403 ms MarkObjects: 1.024395 ms  DeleteObjects: 0.006710 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 188c -> priority: 1 
+  Thread -> id: 4a0 -> priority: 1 
